@@ -1,1 +1,1 @@
-# PowerShellWixExtension
+# WixPowerShellExtension
